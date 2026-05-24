@@ -24,6 +24,10 @@ Rather than just building visuals, I focused on:
 ## 📊 Dashboard Preview
 <img width="1476" height="713" alt="image" src="https://github.com/user-attachments/assets/30f1e207-f923-4792-aa42-b2ee1c4524f1" />
 
+--- 
+
+<img width="1334" height="744" alt="image" src="https://github.com/user-attachments/assets/7075ee68-0d57-467d-83ae-b7a210eed986" />
+
 
 ---
 
