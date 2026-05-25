@@ -1,65 +1,101 @@
-# 📊 HR Analytics Dashboard – Understanding Employee Attrition
+# 📊 HR Analytics Dashboard – Employee Attrition, Compensation & Retention Insights
 
 ## 👋 About This Project
-Employee attrition is one of the biggest challenges for organizations. Instead of just looking at numbers, I wanted to understand **why employees leave and what patterns exist behind it**.
+Employee attrition is a critical challenge for organizations. This project analyzes HR data to uncover why employees leave, which groups are most at risk, and what patterns influence retention.
 
-This dashboard is built to explore workforce data and uncover meaningful insights that HR teams can actually use for better decision-making.
+I designed a three‑page Power BI dashboard that transforms raw HR data into clear, actionable insights for HR leaders and business stakeholders.
+
+---
+## 🗂️ Dashboard Structure (3 Pages)
+#### 1️⃣ Employee Demographics & Attrition Overview
+This page provides a high‑level view of the workforce and attrition patterns.
+Key visuals include:
+- Attrition by Age Group
+- Attrition by Education
+- Attrition by Salary Slab
+- Tenure distribution
+- Gender distribution
+- Overall attrition KPIs
+
+**Purpose**: Understand who is leaving and what demographic groups are most affected.
+#### 2️⃣ Compensation & Attrition Analysis
+This page focuses on how compensation and work conditions influence attrition.
+Key visuals include:
+- Attrition by Salary Band
+- Overtime vs Non‑Overtime Attrition
+- Attrition Rate Trend
+- Job Role–wise Attrition
+- Salary Hike vs Attrition
+
+**Purpose**: Identify financial and job‑related factors driving employee turnover.
+
+#### 3️⃣ Retention & Engagement Insights
+This page highlights employee experience and engagement indicators.
+Key visuals include:
+- Work‑Life Balance distribution
+- Travel Frequency impact
+- Tenure‑based attrition
+- Retention Index KPIs
+- Engagement‑related metrics
+
+**Purpose**: Understand why employees stay or leave based on satisfaction and experience.
 
 ---
 
-## 🎯 What I Focused On
-Rather than just building visuals, I focused on:
-- Identifying **who is leaving**
-- Understanding **what factors influence attrition**
-- Presenting insights in a way that is **easy to interpret and actionable**
-
----
-
-## 🛠 Tools Used
+## 🛠 Tools & Technologies Used
 - Power BI  
-- Excel / CSV Dataset  
+- Excel / CSV Dataset
+- DAX Measures
 
 ---
 
 ## 📊 Dashboard Preview
-<img width="1476" height="713" alt="image" src="https://github.com/user-attachments/assets/30f1e207-f923-4792-aa42-b2ee1c4524f1" />
+<img width="1213" height="587" alt="image" src="https://github.com/user-attachments/assets/073a8f62-71fd-40cc-80f6-e19b9822c70f" />
+
 
 --- 
 
-<img width="1334" height="744" alt="image" src="https://github.com/user-attachments/assets/7075ee68-0d57-467d-83ae-b7a210eed986" />
+<img width="1250" height="698" alt="image" src="https://github.com/user-attachments/assets/344bee00-d2c7-4288-b2be-87d590d14b75" />
+
+---
+
+<img width="1246" height="679" alt="image" src="https://github.com/user-attachments/assets/a6add5c6-0396-424e-864e-2a6d9ab0bfbb" />
 
 
 ---
 
 ## 🔍 Key Observations
-
-- Employees aged **26–35** show the highest attrition  
-- Attrition is significantly higher in **lower salary bands (≤5K)**  
-- Employees in **early years of tenure** are more likely to leave  
-- Certain roles like **Sales Executive and Lab Technician** show higher turnover  
-- Gender distribution shows **balanced but slightly higher attrition in males**
+- Employees aged 26–35 show the highest attrition
+- Lower salary bands (≤5K) experience significantly higher turnover
+- Early‑tenure employees (0–2 years) are most likely to leave
+- Roles like Sales Executive and Lab Technician show elevated attrition
+- Work‑life balance and travel frequency strongly influence retention
+- Compensation and overtime workload are major attrition drivers
 
 ---
 
-## 💡 What This Means
-
-These patterns suggest that:
-- Compensation plays a key role in retention  
-- Early employee engagement is critical  
-- Some roles may require better support or incentives    
-
+## 💡 What These Insights Mean
+- Improving early‑career engagement can reduce turnover
+- Competitive salary adjustments may improve retention
+- High‑attrition job roles may require better support, training, or incentives
+- Work‑life balance programs can positively impact retention
+  
 ---
 
 ## 🚀 Why This Project Matters
 
-This project is not just about dashboards — it demonstrates:
-- Turning raw HR data into meaningful insights  
-- Communicating findings visually  
-- Supporting business decisions with data  
+This project demonstrates my ability to:
+- Build multi‑page, interactive Power BI dashboards
+- Use DAX to create meaningful KPIs and analytical measures
+- Translate HR data into insights that support real business decisions
+- Design clean, professional dashboards suitable for stakeholders
 
 ---
 
 ## 📁 Files Included
 
 - `HR-Analytics_Dashboard.pbix` – Power BI dashboard  
-- `dashboard.png` – Dashboard snapshot  
+- `dashboard.png` – Dashboard snapshot
+- `dashboard_page1.png` – Page 1 snapshot
+- `dashboard_page2.png` – Page 2 snapshot
+- `dashboard_page3.png` – Page 3 snapshot
